@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f3a8468-d001-4111-97a1-6964f82f87cf" name="Changes" comment="Changes" />
+    <list default="true" id="3f3a8468-d001-4111-97a1-6964f82f87cf" name="Changes" comment="第二次提交，我好开心哈哈哈">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qrb/javaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qrb/javaTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +58,7 @@
       <updated>1699955390211</updated>
       <workItem from="1699955391619" duration="1538000" />
       <workItem from="1699960333645" duration="96000" />
-      <workItem from="1699960437313" duration="1291000" />
+      <workItem from="1699960437313" duration="1816000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1699961865105</created>
@@ -58,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699961865105</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次提交，我好开心哈哈哈">
+      <created>1699961953062</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699961953062</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,7 +96,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+    <MESSAGE value="第二次提交，我好开心哈哈哈" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交，我好开心哈哈哈" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
